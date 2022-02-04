@@ -1,10 +1,30 @@
-<a href="https://github.com/catalyst/moodle-tool_objectfs/actions?query=workflow%3A%22Run+all+tests%22">
-<img src="https://github.com/catalyst/moodle-tool_objectfs/workflows/Run%20all%20tests/badge.svg">
-</a>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/9924643/152471598-f1bca36a-a11d-46f6-b8e0-7072459df863.svg" width="224px"/>
+ <br/>
+  ObjectFS
+</h1>
+<p align="center">A remote object storage file system for Moodle. Intended to provide a plug-in that can be installed <br/>and configured to work with any supported remote object storage solution.</p>
 
-# moodle-tool_objectfs
+<p align="center">Save <b>money</b> and <b>time</b> and let objectFS take care of files for you.</p>
 
-A remote object storage file system for Moodle. Intended to provide a plug-in that can be installed and configured to work with any supported remote object storage solution.
+<p align="center">
+ <img alt="GitHub issues" src="https://img.shields.io/github/issues/catalyst/moodle-tool_objectfs">
+ <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/catalyst/moodle-tool_objectfs">
+ <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/catalyst/moodle-tool_objectfs/master">
+ <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/m/catalyst/moodle-tool_objectfs">
+ <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/catalyst/moodle-tool_objectfs">
+ <img alt="GitHub" src="https://img.shields.io/github/license/catalyst/moodle-tool_objectfs">
+ <br/>
+ <a href="https://github.com/catalyst/moodle-tool_objectfs/actions?query=workflow%3A%22Run+all+tests%22">
+    <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/catalyst/moodle-tool_objectfs/Run%20all%20tests?label=Test">
+ </a>
+ <img alt="PHP Version" src="https://img.shields.io/badge/php-7.1%2B-blue">
+ <img alt="Moodle Version Support" src="https://img.shields.io/badge/Moodle-3.3%2B-blue">
+ <img alt="Totara" src="https://img.shields.io/badge/Totara-12%2B-blue">
+ 
+</p>
+
+
 * [Use cases](#use-cases)
   * [Offloading large and old files to save money](#offloading-large-and-old-files-to-save-money)
   * [Sharing files across moodles to save disk](#sharing-files-across-moodles-to-save-disk)
